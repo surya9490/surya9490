@@ -12,7 +12,7 @@
 - 🔭 I’m currently working at **Marmeto**
 - 🌱 I’m constantly learning and exploring new frontend technologies
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **[surya@example.com](mailto:surya@example.com)**
+- 📫 How to reach me: **[suryakiran0257@gmail.com](mailto:surya@example.com)**
 
 ---
 
